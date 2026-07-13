@@ -1,7 +1,6 @@
 # SQL Learning Journey
 
-This repository contains my SQL practice and learning progress while studying 
-Data Analysis.
+This repository contains my SQL practice and learning progress to become a Data Analyst.
 
 ## Goals
 -Document my journey of learning SQL and other tools to become a Data Analyst.
