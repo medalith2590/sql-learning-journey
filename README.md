@@ -9,7 +9,9 @@ This repository contains my SQL practice and learning progress to become a Data 
 
 ## Projects
 
+
 ## Structures 
+
 
 ## Topics
 - SELECT STATEMENTS
