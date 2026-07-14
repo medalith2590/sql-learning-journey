@@ -28,6 +28,14 @@ I need customer information.
 The customer table contains email addresses.
 I only need the first name, last name and email.
 
+*/
+
+SELECT
+    first_name,
+    last_name,
+    email
+FROM customer;
+
 
 ## Topics
 - SELECT STATEMENTS
