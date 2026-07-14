@@ -13,6 +13,22 @@ This repository contains my SQL practice and learning progress to become a Data 
 ## Structures 
 
 
+## Business Challenges.sql
+/*
+Business Challenge 1
+
+Department:
+Marketing
+
+Problem:
+The company wants to send a promotional email to every customer.
+
+My analysis:
+I need customer information.
+The customer table contains email addresses.
+I only need the first name, last name and email.
+
+
 ## Topics
 - SELECT STATEMENTS
 - WHERE
