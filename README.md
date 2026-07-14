@@ -13,9 +13,13 @@ This repository contains my SQL practice and learning progress to become a Data 
 ## Structures 
 
 
-## Business Challenges.sql
+## SQL-Challenges
+
+### Lesson-01-SELECT
+
+
 /*
-Business Challenge 1
+Business Challenge 1 Marketing Campaign
 
 Department:
 Marketing
