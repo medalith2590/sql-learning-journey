@@ -16,6 +16,7 @@ This repository contains my SQL practice and learning progress to become a Data 
 ## SQL-Challenges
 
 ### Lesson-01-SELECT
+A SELECT statement is a digital search request used to look up and display specific information from a database without changing or deleting anything. Think of it like using search filters on a shopping website to show only the exact items you want to see.
 
 
 /*
@@ -25,19 +26,16 @@ Department:
 Marketing
 
 Problem:
-The company wants to send a promotional email to every customer.
+Marketing wants to send a promotional email to every customer. The email should start with the customer's first name and will be sent to their email address. 
 
 My analysis:
 I need customer information.
 The customer table contains email addresses.
-I only need the first name, last name and email.
+I only need the first name and email.
 
 */
 
-SELECT
-    first_name,
-    last_name,
-    email
+SELECT first_name, email
 FROM customer;
 
 
