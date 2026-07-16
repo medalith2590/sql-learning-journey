@@ -20,7 +20,7 @@ A SELECT statement is a digital search request used to look up and display speci
 
 
 /*
-Business Challenge 1 Marketing Campaign
+  ## Business Challenge 1 Marketing Campaign
 
 Department:
 Marketing
