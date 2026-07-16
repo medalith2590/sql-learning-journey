@@ -36,6 +36,7 @@ I only need the first name and email.
 */
 
 SELECT first_name, email
+
 FROM customer;
 
 
