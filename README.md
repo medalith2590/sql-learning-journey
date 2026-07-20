@@ -52,9 +52,10 @@ SELECT first_name, last_name, customer_id
 FROM customer; 
 
 
-Reflection
+## Reflection
 
 Today I learned that before writing SQL I should understand what the business really needs. Only then should I choose the table and the columns.
+
 
 ## Topics
 - SELECT STATEMENTS
