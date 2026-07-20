@@ -36,6 +36,11 @@ SELECT first_name, email
 
 FROM customer;
 
+
+SQL Solution
+
+The query returns the first name and email address of every customer. This information can be used by the Marketing department to send promotional emails.
+
 ## 2. Business Challenge 2 Customer Service
 Department: Service desk
 
@@ -50,6 +55,10 @@ SQL Solution
 SELECT first_name, last_name, customer_id 
 
 FROM customer; 
+
+SQL Solution
+
+The query returns each customer's first name, last name, and customer ID. This information helps the customer service agent verify the customer's identity before discussing the account.
 
 
 ## Reflection
