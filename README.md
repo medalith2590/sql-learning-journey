@@ -27,9 +27,10 @@ Problem:
 Marketing wants to send a promotional email to every customer. The email should start with the customer's first name and will be sent to their email address. 
 
 My analysis:
-I need customer information. The “customers” table contains email addresses. I only need the first name and email.
-
+Marketing needs the customer's first name to personalize the email and the email address to send the campaign.
 */
+
+SQL Solution
 
 SELECT first_name, email
 
@@ -44,9 +45,16 @@ A customer calls customer service. The agent wants to verify the customer's iden
 My analysis:
 I need the customer data. The “customers” table contains the customers’ IDs, as well as their first and last names.
 
+SQL Solution
+
 SELECT first_name, last_name, customer_id 
 
 FROM customer; 
+
+
+Reflection
+
+Today I learned that before writing SQL I should understand what the business really needs. Only then should I choose the table and the columns.
 
 ## Topics
 - SELECT STATEMENTS
