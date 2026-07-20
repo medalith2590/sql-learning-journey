@@ -23,40 +23,40 @@ A SELECT statement is a digital search request used to look up and display speci
   ## 1. Business Challenge 1 Marketing Campaign
 Department: Marketing
 
-Problem:
+### Problem:
 Marketing wants to send a promotional email to every customer. The email should start with the customer's first name and will be sent to their email address. 
 
-My analysis:
+### My analysis:
 Marketing needs the customer's first name to personalize the email and the email address to send the campaign.
 */
 
-SQL Solution
+### SQL Solution
 
 SELECT first_name, email
 
 FROM customer;
 
 
-Expected Result
+### Expected Result
 
 The query returns the first name and email address of every customer. This information can be used by the Marketing department to send promotional emails.
 
 ## 2. Business Challenge 2 Customer Service
 Department: Service desk
 
-Problem:
+### Problem:
 A customer calls customer service. The agent wants to verify the customer's identity before discussing the account. 
 
-My analysis:
+### My analysis:
 I need the customer data. The “customers” table contains the customers’ IDs, as well as their first and last names.
 
-SQL Solution
+### SQL Solution
 
 SELECT first_name, last_name, customer_id 
 
 FROM customer; 
 
-Expected Result
+### Expected Result
 
 The query returns each customer's first name, last name, and customer ID. This information helps the customer service agent verify the customer's identity before discussing the account.
 
