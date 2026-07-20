@@ -41,6 +41,8 @@ FROM customer;
 
 The query returns the first name and email address of every customer. This information can be used by the Marketing department to send promotional emails.
 
+---
+
 ## 2. Business Challenge 2 Customer Service
 Department: Service desk
 
